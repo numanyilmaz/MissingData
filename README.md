@@ -12,4 +12,4 @@ Here are some articles, tutorials related to this subject.
 
 [1]: https://www.oreilly.com/learning/handling-missing-data
 [2]: https://chrisalbon.com/python/pandas_missing_data.html
-[3]: http://machinelearningmastery.com/handle-missing-data-python/
+[3]: http://machinelearningmastery.com/handle-missing-data-python
