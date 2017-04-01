@@ -1,7 +1,7 @@
 # MissingData
 This repo is all about missing data and how to handle it.
 
-Here are some articles, tutorials related to this subject.
+Here are some articles, tutorials related to this subject. 
 
 1- [Handling missing data][1] by Jake VanderPlas
 
